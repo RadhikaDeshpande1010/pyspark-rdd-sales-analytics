@@ -1,4 +1,4 @@
-# pyspark-rdd-sales-analytics
+<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> PySpark RDD Sales Aanalytics</h1>
 
 > Distributed sales data analysis using Apache PySpark RDD transformations — `map()`, `filter()`, and `reduceByKey()` — on a real-world retail dataset.
 
